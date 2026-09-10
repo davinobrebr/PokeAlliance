@@ -1,0 +1,2666 @@
+===========================================
+Log session started: 2026-08-26 02:13:02
+Application: PokeAlliance Client
+===========================================
+=== System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 14196 MB
+Memory load: 56%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+[Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+OpenAL Soft (OpenAL Community)
+OpenAL Soft version 1.1 ALSOFT 1.24.3
+Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+== application started at Aug 26 2026 02:13:02
+PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Aug 25 2026 for arch x64
+UI scaled to 0.59 (width: 0.42, height: 0.59)
+String: Minimap couldn't be loaded, file missing?
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_return.ogg': Invalid Name
+WARNING: failed to merge existing OTMM minimap: unable to open file '/minimap854.otmm': not found
+Exiting application..
+===========================================
+Log session started: 2026-08-26 02:56:45
+Application: PokeAlliance Client
+===========================================
+=== System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 14337 MB
+Memory load: 56%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+[Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+OpenAL Soft (OpenAL Community)
+OpenAL Soft version 1.1 ALSOFT 1.24.3
+Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+== application started at Aug 26 2026 02:56:45
+PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Aug 25 2026 for arch x64
+ERROR: OpenAL error for '/data/sounds/ambience/startup.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_go.ogg': Invalid Name
+ERROR: unable to remove creature
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:3297 2221 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:3296 2221 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: unable to remove creature
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:3295 2221 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:3294 2221 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:3297 2221 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: unable to remove creature
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:3294 2223 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:3294 2224 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: unable to remove creature
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:3294 2225 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:3295 2221 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:3294 2226 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:3294 2227 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:3295 2222 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileRemoveThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:3294 2228 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:3294 2227 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: unable to remove creature
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:3294 2227 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:3294 2228 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileRemoveThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+WARNING: widget 'game_player_actions297535' was not explicitly destroyed
+WARNING: widget 'game_player_actions297536' was not explicitly destroyed
+WARNING: widget 'game_player_actions297561' was not explicitly destroyed
+WARNING: widget 'game_player_actions297560' was not explicitly destroyed
+WARNING: widget 'game_player_actions297563' was not explicitly destroyed
+WARNING: widget 'game_player_actions297562' was not explicitly destroyed
+WARNING: widget 'game_player_actions297571' was not explicitly destroyed
+WARNING: widget 'game_player_actions297570' was not explicitly destroyed
+WARNING: widget 'game_player_actions297569' was not explicitly destroyed
+WARNING: widget 'game_player_actions297568' was not explicitly destroyed
+WARNING: widget 'game_player_actions297567' was not explicitly destroyed
+WARNING: widget 'game_player_actions297566' was not explicitly destroyed
+WARNING: widget 'game_player_actions297565' was not explicitly destroyed
+WARNING: widget 'game_player_actions297564' was not explicitly destroyed
+WARNING: widget 'game_player_actions297572' was not explicitly destroyed
+WARNING: widget 'game_player_actions297627' was not explicitly destroyed
+WARNING: widget 'game_player_actions297575' was not explicitly destroyed
+WARNING: widget 'game_player_actions297574' was not explicitly destroyed
+WARNING: widget 'game_player_actions297573' was not explicitly destroyed
+WARNING: widget 'game_player_actions297636' was not explicitly destroyed
+WARNING: widget 'game_player_actions297635' was not explicitly destroyed
+WARNING: widget 'game_player_actions297641' was not explicitly destroyed
+WARNING: widget 'game_player_actions297640' was not explicitly destroyed
+WARNING: widget 'game_player_actions297639' was not explicitly destroyed
+WARNING: widget 'game_player_actions297638' was not explicitly destroyed
+WARNING: widget 'game_player_actions297637' was not explicitly destroyed
+WARNING: widget 'game_player_actions297642' was not explicitly destroyed
+WARNING: widget 'game_player_actions297649' was not explicitly destroyed
+WARNING: widget 'game_player_actions297648' was not explicitly destroyed
+WARNING: widget 'game_player_actions297647' was not explicitly destroyed
+WARNING: widget 'game_player_actions297646' was not explicitly destroyed
+WARNING: widget 'game_player_actions297645' was not explicitly destroyed
+WARNING: widget 'game_player_actions297644' was not explicitly destroyed
+WARNING: widget 'game_player_actions297643' was not explicitly destroyed
+WARNING: widget 'game_player_actions297650' was not explicitly destroyed
+WARNING: widget 'game_player_actions297651' was not explicitly destroyed
+WARNING: widget 'game_player_actions297653' was not explicitly destroyed
+WARNING: widget 'game_player_actions297652' was not explicitly destroyed
+WARNING: widget 'game_player_actions297655' was not explicitly destroyed
+WARNING: widget 'game_player_actions297667' was not explicitly destroyed
+WARNING: widget 'game_player_actions297669' was not explicitly destroyed
+WARNING: widget 'game_player_actions297668' was not explicitly destroyed
+WARNING: widget 'game_player_actions297670' was not explicitly destroyed
+WARNING: widget 'game_player_actions297671' was not explicitly destroyed
+WARNING: widget 'game_player_actions297691' was not explicitly destroyed
+WARNING: widget 'game_player_actions297690' was not explicitly destroyed
+WARNING: widget 'game_player_actions297689' was not explicitly destroyed
+WARNING: widget 'game_player_actions297688' was not explicitly destroyed
+WARNING: widget 'game_player_actions297687' was not explicitly destroyed
+WARNING: widget 'game_player_actions297686' was not explicitly destroyed
+WARNING: widget 'game_player_actions297692' was not explicitly destroyed
+WARNING: widget 'game_player_actions297796' was not explicitly destroyed
+WARNING: widget 'game_player_actions297834' was not explicitly destroyed
+WARNING: widget 'game_player_actions297948' was not explicitly destroyed
+WARNING: widget 'game_player_actions300141' was not explicitly destroyed
+WARNING: widget 'game_player_actions300147' was not explicitly destroyed
+WARNING: widget 'game_player_actions300159' was not explicitly destroyed
+WARNING: widget 'game_player_actions300167' was not explicitly destroyed
+WARNING: widget 'game_player_actions300175' was not explicitly destroyed
+WARNING: widget 'game_player_actions300192' was not explicitly destroyed
+WARNING: widget 'game_player_actions301844' was not explicitly destroyed
+WARNING: widget 'game_player_actions301843' was not explicitly destroyed
+WARNING: widget 'game_player_actions301851' was not explicitly destroyed
+WARNING: widget 'game_player_actions301850' was not explicitly destroyed
+WARNING: widget 'game_player_actions301856' was not explicitly destroyed
+WARNING: widget 'game_player_actions301855' was not explicitly destroyed
+WARNING: widget 'game_player_actions301854' was not explicitly destroyed
+WARNING: widget 'game_player_actions301859' was not explicitly destroyed
+WARNING: widget 'game_player_actions301860' was not explicitly destroyed
+WARNING: widget 'game_player_actions301861' was not explicitly destroyed
+WARNING: widget 'game_player_actions301868' was not explicitly destroyed
+WARNING: widget 'game_player_actions301875' was not explicitly destroyed
+WARNING: widget 'game_player_actions301887' was not explicitly destroyed
+WARNING: widget 'game_player_actions301890' was not explicitly destroyed
+WARNING: widget 'game_player_actions301898' was not explicitly destroyed
+WARNING: widget 'game_player_actions301904' was not explicitly destroyed
+WARNING: widget 'game_player_actions301913' was not explicitly destroyed
+WARNING: widget 'game_player_actions301925' was not explicitly destroyed
+WARNING: widget 'game_player_actions301920' was not explicitly destroyed
+WARNING: widget 'game_player_actions301919' was not explicitly destroyed
+WARNING: widget 'game_player_actions301933' was not explicitly destroyed
+WARNING: widget 'game_player_actions301932' was not explicitly destroyed
+WARNING: widget 'game_player_actions301931' was not explicitly destroyed
+WARNING: widget 'game_player_actions301936' was not explicitly destroyed
+WARNING: widget 'game_player_actions301935' was not explicitly destroyed
+WARNING: widget 'game_player_actions301942' was not explicitly destroyed
+WARNING: widget 'game_player_actions301947' was not explicitly destroyed
+WARNING: widget 'game_player_actions304182' was not explicitly destroyed
+WARNING: widget 'game_player_actions304192' was not explicitly destroyed
+WARNING: widget 'game_player_actions304234' was not explicitly destroyed
+WARNING: widget 'game_player_actions304238' was not explicitly destroyed
+WARNING: widget 'game_player_actions304235' was not explicitly destroyed
+WARNING: widget 'game_player_actions304241' was not explicitly destroyed
+WARNING: widget 'game_player_actions304253' was not explicitly destroyed
+WARNING: widget 'game_player_actions304254' was not explicitly destroyed
+WARNING: widget 'game_player_actions304260' was not explicitly destroyed
+WARNING: widget 'game_player_actions304264' was not explicitly destroyed
+WARNING: widget 'game_player_actions304263' was not explicitly destroyed
+WARNING: widget 'game_player_actions304272' was not explicitly destroyed
+WARNING: widget 'game_player_actions304277' was not explicitly destroyed
+WARNING: widget 'game_player_actions304283' was not explicitly destroyed
+WARNING: widget 'game_player_actions304284' was not explicitly destroyed
+WARNING: widget 'game_player_actions304289' was not explicitly destroyed
+WARNING: widget 'game_player_actions304304' was not explicitly destroyed
+WARNING: widget 'game_player_actions304312' was not explicitly destroyed
+WARNING: widget 'game_player_actions304319' was not explicitly destroyed
+WARNING: widget 'game_player_actions304320' was not explicitly destroyed
+WARNING: widget 'game_player_actions304325' was not explicitly destroyed
+WARNING: widget 'game_player_actions304326' was not explicitly destroyed
+WARNING: widget 'game_player_actions304329' was not explicitly destroyed
+WARNING: widget 'game_player_actions304479' was not explicitly destroyed
+WARNING: widget 'game_player_actions304480' was not explicitly destroyed
+WARNING: widget 'game_player_actions304493' was not explicitly destroyed
+WARNING: widget 'game_player_actions304494' was not explicitly destroyed
+WARNING: widget 'game_player_actions304497' was not explicitly destroyed
+WARNING: widget 'game_player_actions304498' was not explicitly destroyed
+WARNING: widget 'game_player_actions304500' was not explicitly destroyed
+WARNING: widget 'game_player_actions304510' was not explicitly destroyed
+WARNING: widget 'game_player_actions304511' was not explicitly destroyed
+WARNING: widget 'game_player_actions304522' was not explicitly destroyed
+WARNING: widget 'game_player_actions304521' was not explicitly destroyed
+WARNING: widget 'game_player_actions304520' was not explicitly destroyed
+WARNING: widget 'game_player_actions304518' was not explicitly destroyed
+WARNING: widget 'game_player_actions304517' was not explicitly destroyed
+WARNING: widget 'game_player_actions304523' was not explicitly destroyed
+WARNING: widget 'game_player_actions304528' was not explicitly destroyed
+WARNING: widget 'game_player_actions304531' was not explicitly destroyed
+WARNING: widget 'game_player_actions306878' was not explicitly destroyed
+WARNING: widget 'game_player_actions307096' was not explicitly destroyed
+WARNING: widget 'game_player_actions309324' was not explicitly destroyed
+WARNING: widget 'game_player_actions309323' was not explicitly destroyed
+WARNING: widget 'game_player_actions309330' was not explicitly destroyed
+WARNING: widget 'game_player_actions309341' was not explicitly destroyed
+WARNING: widget 'game_player_actions309338' was not explicitly destroyed
+WARNING: widget 'game_player_actions309344' was not explicitly destroyed
+WARNING: widget 'game_player_actions309355' was not explicitly destroyed
+WARNING: widget 'game_player_actions309354' was not explicitly destroyed
+WARNING: widget 'game_player_actions311607' was not explicitly destroyed
+WARNING: widget 'game_player_actions313953' was not explicitly destroyed
+WARNING: widget 'game_player_actions313958' was not explicitly destroyed
+WARNING: widget 'game_player_actions313964' was not explicitly destroyed
+WARNING: widget 'game_player_actions314007' was not explicitly destroyed
+WARNING: widget 'game_player_actions314009' was not explicitly destroyed
+WARNING: widget 'game_player_actions314010' was not explicitly destroyed
+WARNING: widget 'game_player_actions316602' was not explicitly destroyed
+WARNING: widget 'game_player_actions318837' was not explicitly destroyed
+WARNING: widget 'game_player_actions318840' was not explicitly destroyed
+WARNING: widget 'game_player_actions318872' was not explicitly destroyed
+WARNING: widget 'game_player_actions318856' was not explicitly destroyed
+WARNING: widget 'game_player_actions318879' was not explicitly destroyed
+WARNING: widget 'game_player_actions318873' was not explicitly destroyed
+WARNING: widget 'game_player_actions318894' was not explicitly destroyed
+WARNING: widget 'game_player_actions318899' was not explicitly destroyed
+WARNING: widget 'game_player_actions318923' was not explicitly destroyed
+WARNING: widget 'game_player_actions318929' was not explicitly destroyed
+WARNING: widget 'game_player_actions318924' was not explicitly destroyed
+WARNING: widget 'game_player_actions318935' was not explicitly destroyed
+WARNING: widget 'game_player_actions318941' was not explicitly destroyed
+WARNING: widget 'game_player_actions318944' was not explicitly destroyed
+WARNING: widget 'game_player_actions318951' was not explicitly destroyed
+WARNING: widget 'game_player_actions318946' was not explicitly destroyed
+WARNING: widget 'game_player_actions318945' was not explicitly destroyed
+WARNING: widget 'game_player_actions318954' was not explicitly destroyed
+WARNING: widget 'game_player_actions318955' was not explicitly destroyed
+WARNING: widget 'game_player_actions318960' was not explicitly destroyed
+WARNING: widget 'game_player_actions321235' was not explicitly destroyed
+WARNING: widget 'game_player_actions321243' was not explicitly destroyed
+WARNING: widget 'game_player_actions321251' was not explicitly destroyed
+WARNING: widget 'game_player_actions321256' was not explicitly destroyed
+WARNING: widget 'game_player_actions322848' was not explicitly destroyed
+WARNING: widget 'game_player_actions322849' was not explicitly destroyed
+WARNING: widget 'game_player_actions322858' was not explicitly destroyed
+WARNING: widget 'game_player_actions322859' was not explicitly destroyed
+WARNING: widget 'game_player_actions322872' was not explicitly destroyed
+WARNING: widget 'game_player_actions322864' was not explicitly destroyed
+WARNING: widget 'game_player_actions322880' was not explicitly destroyed
+WARNING: widget 'game_player_actions322879' was not explicitly destroyed
+WARNING: widget 'game_player_actions322878' was not explicitly destroyed
+WARNING: widget 'game_player_actions322877' was not explicitly destroyed
+WARNING: widget 'game_player_actions322882' was not explicitly destroyed
+WARNING: widget 'game_player_actions322881' was not explicitly destroyed
+WARNING: widget 'game_player_actions322890' was not explicitly destroyed
+WARNING: widget 'game_player_actions322900' was not explicitly destroyed
+WARNING: widget 'game_player_actions322909' was not explicitly destroyed
+WARNING: widget 'game_player_actions322903' was not explicitly destroyed
+WARNING: widget 'game_player_actions322911' was not explicitly destroyed
+WARNING: widget 'game_player_actions322910' was not explicitly destroyed
+WARNING: widget 'game_player_actions322916' was not explicitly destroyed
+WARNING: widget 'game_player_actions322921' was not explicitly destroyed
+WARNING: widget 'game_player_actions322922' was not explicitly destroyed
+WARNING: widget 'game_player_actions322931' was not explicitly destroyed
+WARNING: widget 'game_player_actions322932' was not explicitly destroyed
+WARNING: widget 'game_player_actions322938' was not explicitly destroyed
+WARNING: widget 'game_player_actions322942' was not explicitly destroyed
+WARNING: widget 'game_player_actions322941' was not explicitly destroyed
+WARNING: widget 'game_player_actions322940' was not explicitly destroyed
+WARNING: widget 'game_player_actions322939' was not explicitly destroyed
+WARNING: widget 'game_player_actions322951' was not explicitly destroyed
+WARNING: widget 'game_player_actions325329' was not explicitly destroyed
+WARNING: widget 'game_player_actions325345' was not explicitly destroyed
+WARNING: widget 'game_player_actions325339' was not explicitly destroyed
+WARNING: widget 'game_player_actions325338' was not explicitly destroyed
+WARNING: widget 'game_player_actions325337' was not explicitly destroyed
+WARNING: widget 'game_player_actions325336' was not explicitly destroyed
+WARNING: widget 'game_player_actions325335' was not explicitly destroyed
+WARNING: widget 'game_player_actions325334' was not explicitly destroyed
+WARNING: widget 'game_player_actions325333' was not explicitly destroyed
+WARNING: widget 'game_player_actions325332' was not explicitly destroyed
+WARNING: widget 'game_player_actions325348' was not explicitly destroyed
+WARNING: widget 'game_player_actions325347' was not explicitly destroyed
+WARNING: widget 'game_player_actions325346' was not explicitly destroyed
+WARNING: widget 'game_player_actions327605' was not explicitly destroyed
+WARNING: widget 'game_player_actions329861' was not explicitly destroyed
+WARNING: widget 'game_player_actions329872' was not explicitly destroyed
+WARNING: widget 'game_player_actions329871' was not explicitly destroyed
+WARNING: widget 'game_player_actions332208' was not explicitly destroyed
+WARNING: widget 'game_player_actions332215' was not explicitly destroyed
+WARNING: widget 'game_player_actions332217' was not explicitly destroyed
+WARNING: widget 'game_player_actions332216' was not explicitly destroyed
+WARNING: widget 'game_player_actions332220' was not explicitly destroyed
+WARNING: widget 'game_player_actions332219' was not explicitly destroyed
+WARNING: widget 'game_player_actions332218' was not explicitly destroyed
+WARNING: widget 'game_player_actions332221' was not explicitly destroyed
+WARNING: widget 'game_player_actions332270' was not explicitly destroyed
+WARNING: widget 'game_player_actions332308' was not explicitly destroyed
+WARNING: widget 'game_player_actions332318' was not explicitly destroyed
+WARNING: widget 'game_player_actions332322' was not explicitly destroyed
+WARNING: widget 'game_player_actions332328' was not explicitly destroyed
+WARNING: widget 'game_player_actions332331' was not explicitly destroyed
+WARNING: widget 'game_player_actions332337' was not explicitly destroyed
+WARNING: widget 'game_player_actions332338' was not explicitly destroyed
+WARNING: widget 'game_player_actions332350' was not explicitly destroyed
+WARNING: widget 'game_player_actions332356' was not explicitly destroyed
+WARNING: widget 'game_player_actions332370' was not explicitly destroyed
+WARNING: widget 'game_player_actions332369' was not explicitly destroyed
+WARNING: widget 'game_player_actions332368' was not explicitly destroyed
+WARNING: widget 'game_player_actions332380' was not explicitly destroyed
+WARNING: widget 'game_player_actions332387' was not explicitly destroyed
+WARNING: widget 'game_player_actions332386' was not explicitly destroyed
+WARNING: widget 'game_player_actions332389' was not explicitly destroyed
+WARNING: widget 'game_player_actions332388' was not explicitly destroyed
+WARNING: widget 'game_player_actions332393' was not explicitly destroyed
+WARNING: widget 'game_player_actions332390' was not explicitly destroyed
+WARNING: widget 'game_player_actions332398' was not explicitly destroyed
+WARNING: widget 'game_player_actions332409' was not explicitly destroyed
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_go.ogg': Invalid Name
+ERROR: no thing at pos:1933 2557 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1937 2557 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+WARNING: widget 'game_player_actions758870' was not explicitly destroyed
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_go.ogg': Invalid Name
+Exiting application..
+===========================================
+Log session started: 2026-08-27 13:01:33
+Application: PokeAlliance Client
+===========================================
+=== System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 14090 MB
+Memory load: 56%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+[Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+OpenAL Soft (OpenAL Community)
+OpenAL Soft version 1.1 ALSOFT 1.24.3
+Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+== application started at Aug 27 2026 13:01:33
+PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Aug 25 2026 for arch x64
+ERROR: OpenAL error for '/data/sounds/ambience/startup.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_go.ogg': Invalid Name
+    [ultima mensagem repetida 2 vezes]
+ERROR: OpenAL error for '/data/sounds/ambience/startup.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_go.ogg': Invalid Name
+    [ultima mensagem repetida 4 vezes]
+Exiting application..
+===========================================
+Log session started: 2026-08-28 07:39:04
+Application: PokeAlliance Client
+===========================================
+=== System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 10648 MB
+Memory load: 67%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+[Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+OpenAL Soft (OpenAL Community)
+OpenAL Soft version 1.1 ALSOFT 1.24.3
+Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+== application started at Aug 28 2026 07:39:05
+PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Aug 25 2026 for arch x64
+ERROR: OpenAL error for '/data/sounds/ambience/startup.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_go.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_return.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_go.ogg': Invalid Name
+    [ultima mensagem repetida 1 vezes]
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_return.ogg': Invalid Name
+    [ultima mensagem repetida 1 vezes]
+Exiting application..
+    [ultima mensagem repetida 1 vezes]
+WARNING: attempt to destroy widget 'widget653899' two times
+WARNING: [destroy2x] id='widget653899' source='/modules/game_guild/guild.lua:1672' trace:
+stack traceback:
+	[C]: in function 'destroy'
+	/modules/game_guild/guild.lua:281: in function 'terminate'
+	/modules/game_guild/guild.otmod:10:[@onUnload]:1: in main chunk
+ERROR: lua function callback failed: /modules/game_pokemoves/pokemoves.lua:485: attempt to call global 'updateCooldown' (a nil value)
+stack traceback:
+	[C]: in function 'updateCooldown'
+	/modules/game_pokemoves/pokemoves.lua:485: in function </modules/game_pokemoves/pokemoves.lua:484>
+===========================================
+Log session started: 2026-08-28 23:43:36
+Application: PokeAlliance Client
+===========================================
+=== System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 10206 MB
+Memory load: 68%
+Process memory usage: 25 MB
+Peak memory usage: 59 MB
+==========================
+
+GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+[Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+OpenAL Soft (OpenAL Community)
+OpenAL Soft version 1.1 ALSOFT 1.24.3
+Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+== application started at Aug 28 2026 23:43:37
+PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Aug 25 2026 for arch x64
+ERROR: OpenAL error for '/data/sounds/ambience/startup.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_go.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_return.ogg': Invalid Name
+Exiting application..
+===========================================
+Log session started: 2026-08-29 07:37:10
+Application: PokeAlliance Client
+===========================================
+=== System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 13231 MB
+Memory load: 59%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+[Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+OpenAL Soft (OpenAL Community)
+OpenAL Soft version 1.1 ALSOFT 1.24.3
+Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+== application started at Aug 29 2026 07:37:12
+PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Aug 25 2026 for arch x64
+ERROR: OpenAL error for '/data/sounds/ambience/startup.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_go.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_return.ogg': Invalid Name
+Exiting application..
+===========================================
+Log session started: 2026-08-29 19:05:52
+Application: PokeAlliance Client
+===========================================
+=== System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 5603 MB
+Memory load: 82%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+[Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+OpenAL Soft (OpenAL Community)
+OpenAL Soft version 1.1 ALSOFT 1.24.3
+Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+== application started at Aug 29 2026 19:05:53
+PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Aug 25 2026 for arch x64
+ERROR: OpenAL error for '/data/sounds/ambience/startup.ogg': Invalid Name
+Exiting application..
+===========================================
+Log session started: 2026-08-29 21:40:11
+Application: PokeAlliance Client
+===========================================
+=== System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 8236 MB
+Memory load: 74%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+[Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+OpenAL Soft (OpenAL Community)
+OpenAL Soft version 1.1 ALSOFT 1.24.3
+Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+== application started at Aug 29 2026 21:40:11
+PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Aug 25 2026 for arch x64
+UI scaled to 0.59 (width: 0.50, height: 0.59)
+ERROR: OpenAL error for '/data/sounds/ambience/startup.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_return.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_go.ogg': Invalid Name
+    [ultima mensagem repetida 1 vezes]
+ERROR: lua function callback failed: /modules/game_spectate/spectate.lua:549: attempt to perform arithmetic on field 'openTime' (a nil value)
+stack traceback:
+	[C]: in function '__sub'
+	/modules/game_spectate/spectate.lua:549: in function </modules/game_spectate/spectate.lua:540>
+Exiting application..
+===========================================
+Log session started: 2026-08-30 08:35:04
+Application: PokeAlliance Client
+===========================================
+=== System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 11391 MB
+Memory load: 65%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+[Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+OpenAL Soft (OpenAL Community)
+OpenAL Soft version 1.1 ALSOFT 1.24.3
+Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+== application started at Aug 30 2026 08:35:05
+PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Aug 25 2026 for arch x64
+ERROR: OpenAL error for '/data/sounds/ambience/startup.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_return.ogg': Invalid Name
+ERROR: no thing at pos:3645 3600 5, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+Exiting application..
+===========================================
+Log session started: 2026-08-31 05:41:20
+Application: PokeAlliance Client
+===========================================
+=== System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 14737 MB
+Memory load: 54%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+[Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+OpenAL Soft (OpenAL Community)
+OpenAL Soft version 1.1 ALSOFT 1.24.3
+Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+== application started at Aug 31 2026 05:41:21
+PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Aug 31 2026 for arch x64
+ERROR: OpenAL error for '/data/sounds/ambience/startup.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_go.ogg': Invalid Name
+    [ultima mensagem repetida 1 vezes]
+ERROR: OpenAL error for '/data/sounds/ambience/startup.ogg': Invalid Name
+    [ultima mensagem repetida 1 vezes]
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_return.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/ambience/startup.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_go.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/ambience/startup.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_return.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_go.ogg': Invalid Name
+    [ultima mensagem repetida 1 vezes]
+ERROR: OpenAL error for '/data/sounds/ambience/startup.ogg': Invalid Name
+    [ultima mensagem repetida 2 vezes]
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_return.ogg': Invalid Name
+ERROR: no thing at pos:458 1394 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: OpenAL error for '/data/sounds/ambience/startup.ogg': Invalid Name
+    [ultima mensagem repetida 3 vezes]
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_return.ogg': Invalid Name
+ERROR: unable to remove creature
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+    [ultima mensagem repetida 1 vezes]
+ERROR: no thing at pos:1031 1948 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1030 1948 6, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1031 1948 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1031 1949 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1030 1949 6, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1030 1950 6, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1029 1950 6, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1030 1950 6, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1031 1950 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1031 1951 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1031 1950 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1031 1951 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1030 1951 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1030 1950 6, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1030 1949 6, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1030 1949 6, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_return.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/catch_fail2.ogg': Invalid Name
+    [ultima mensagem repetida 1 vezes]
+ERROR: OpenAL error for '/data/sounds/actions/pokemon_return.ogg': Invalid Name
+ERROR: OpenAL error for '/data/sounds/actions/catch_throw.ogg': Invalid Name
+Exiting application..
+===========================================
+Log session started: 2026-09-01 00:48:49
+Application: PokeAlliance Client
+===========================================
+=== System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 14017 MB
+Memory load: 56%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+[Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+OpenAL Soft (OpenAL Community)
+OpenAL Soft version 1.1 ALSOFT 1.24.3
+Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+== application started at Sep 01 2026 00:48:51
+PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Aug 31 2026 for arch x64
+UI scaled to 0.60 (width: 0.42, height: 0.60)
+ERROR: unable to remove creature
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1018 1946 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: unable to remove creature
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+    [ultima mensagem repetida 1 vezes]
+ERROR: no thing at pos:1018 1946 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1017 1946 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1017 1947 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1017 1946 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1017 1947 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1016 1947 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+    [ultima mensagem repetida 1 vezes]
+ERROR: no thing at pos:1017 1946 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1017 1947 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1017 1946 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1017 1945 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1017 1946 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+    [ultima mensagem repetida 1 vezes]
+ERROR: no thing at pos:1016 1947 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+    [ultima mensagem repetida 1 vezes]
+ERROR: no thing at pos:1017 1946 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1018 1946 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1017 1946 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1017 1947 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1016 1947 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1016 1948 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1017 1948 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1017 1949 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1017 1950 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1018 1950 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1018 1951 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1019 1951 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1951 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1950 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1019 1950 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1019 1949 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1019 1950 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1019 1951 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1019 1950 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1019 1949 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1018 1949 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1018 1948 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1019 1948 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1019 1949 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1019 1950 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1019 1951 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+    [ultima mensagem repetida 1 vezes]
+ERROR: no thing at pos:1020 1952 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1951 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1950 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1951 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1952 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+    [ultima mensagem repetida 1 vezes]
+ERROR: no thing at pos:1018 1952 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+    [ultima mensagem repetida 1 vezes]
+ERROR: no thing at pos:1019 1953 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+    [ultima mensagem repetida 1 vezes]
+ERROR: no thing at pos:1019 1953 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+    [ultima mensagem repetida 1 vezes]
+ERROR: no thing at pos:1019 1953 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+    [ultima mensagem repetida 1 vezes]
+ERROR: no thing at pos:1019 1953 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+    [ultima mensagem repetida 1 vezes]
+ERROR: no thing at pos:1019 1953 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1953 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1021 1953 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1021 1952 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1952 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1953 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1952 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+    [ultima mensagem repetida 1 vezes]
+ERROR: no thing at pos:1019 1953 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1953 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1019 1953 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1953 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1952 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1953 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1952 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1951 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1950 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1951 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1950 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1021 1950 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1950 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1019 1950 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1950 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1951 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1952 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1021 1952 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1021 1953 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1953 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1952 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+    [ultima mensagem repetida 1 vezes]
+ERROR: no thing at pos:1018 1952 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1018 1951 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1019 1951 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1018 1951 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1018 1950 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1018 1949 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1018 1950 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1018 1951 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1019 1951 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+    [ultima mensagem repetida 1 vezes]
+ERROR: no thing at pos:1020 1952 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1953 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1019 1953 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+    [ultima mensagem repetida 1 vezes]
+ERROR: no thing at pos:1020 1952 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1021 1952 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1021 1951 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1022 1951 6, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1021 1951 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1021 1950 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1020 1950 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1021 1950 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1022 1950 6, stackpos:4
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1022 1951 6, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1021 1951 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+ERROR: no thing at pos:1021 1950 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+Exiting application..
+===========================================
+Log session started: 2026-09-02 00:02:12
+Application: PokeAlliance Client
+===========================================
+=== System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 12318 MB
+Memory load: 62%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+[Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+OpenAL Soft (OpenAL Community)
+OpenAL Soft version 1.1 ALSOFT 1.24.3
+Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+== application started at Sep 02 2026 00:02:12
+PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Aug 31 2026 for arch x64
+Exiting application..
+===========================================
+Log session started: 2026-09-02 00:07:28
+Application: PokeAlliance Client
+===========================================
+=== System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 12067 MB
+Memory load: 62%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+[Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+OpenAL Soft (OpenAL Community)
+OpenAL Soft version 1.1 ALSOFT 1.24.3
+Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+== application started at Sep 02 2026 00:07:28
+PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  1 2026 for arch x64
+WARNING: attempt to destroy widget 'widget316806' two times
+WARNING: [destroy2x] id='widget316806' source='/modules/game_guild/guild.lua:2006' trace:
+stack traceback:
+	[C]: in function 'destroy'
+	/modules/game_guild/guild.lua:2000: in function 'leaveCleanup'
+	/modules/game_guild/guild.lua:2005: in function 'leaveConfirmation'
+	/modules/game_guild/guild.lua:994: in function </modules/game_guild/guild.lua:993>
+Exiting application..
+WARNING: attempt to destroy widget 'widget316986' two times
+WARNING: [destroy2x] id='widget316986' source='/modules/game_guild/guild.lua:2006' trace:
+stack traceback:
+	[C]: in function 'destroy'
+	/modules/game_guild/guild.lua:271: in function 'terminate'
+	/modules/game_guild/guild.otmod:10:[@onUnload]:1: in main chunk
+WARNING: attempt to destroy widget 'widget318725' two times
+WARNING: [destroy2x] id='widget318725' source='/modules/game_guild/guild.lua:1672' trace:
+stack traceback:
+	[C]: in function 'destroy'
+	/modules/game_guild/guild.lua:281: in function 'terminate'
+	/modules/game_guild/guild.otmod:10:[@onUnload]:1: in main chunk
+===========================================
+Log session started: 2026-09-02 19:30:46
+Application: PokeAlliance Client
+===========================================
+=== System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 12802 MB
+Memory load: 60%
+Process memory usage: 16 MB
+Peak memory usage: 50 MB
+==========================
+
+GPU Intel(R) UHD Graphics (Intel)
+OpenGL 4.6.0 - Build 31.0.101.2135
+[Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+OpenAL Soft (OpenAL Community)
+OpenAL Soft version 1.1 ALSOFT 1.24.3
+Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+== application started at Sep 02 2026 19:30:46
+PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  1 2026 for arch x64
+ERROR: no thing at pos:1326 1357 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+Exiting application..
+===========================================
+Log session started: 2026-09-04 00:31:50
+Application: PokeAlliance Client
+===========================================
+=== System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 11180 MB
+Memory load: 65%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+GPU Intel(R) UHD Graphics (Intel)
+OpenGL 4.6.0 - Build 31.0.101.2135
+[Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+OpenAL Soft (OpenAL Community)
+OpenAL Soft version 1.1 ALSOFT 1.24.3
+Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+== application started at Sep 04 2026 00:31:51
+PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  3 2026 for arch x64
+Exiting application..
+===========================================
+Log session started: 2026-09-05 00:44:59
+Application: PokeAlliance Client
+===========================================
+00:44:59 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 14707 MB
+Memory load: 54%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+00:44:59 GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+00:44:59 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+00:44:59 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+00:45:00 OpenAL Soft (OpenAL Community)
+00:45:00 OpenAL Soft version 1.1 ALSOFT 1.24.3
+00:45:00 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+00:45:00 == application started at Sep 05 2026 00:45:00
+00:45:00 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  4 2026 for arch x64
+01:29:06 ERROR: unable to remove creature
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+01:29:20     [ultima mensagem repetida 2 vezes]
+01:29:20 ERROR: no thing at pos:1020 1951 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+01:29:20 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+01:29:22 ERROR: no thing at pos:1020 1952 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+01:29:22 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+01:29:24 ERROR: no thing at pos:1021 1952 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+01:29:24 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+01:29:26 ERROR: no thing at pos:1022 1952 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+01:29:26 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+01:29:28 ERROR: no thing at pos:1021 1952 6, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+01:29:28 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+01:29:33 ERROR: no thing at pos:1020 1952 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+01:29:33 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+01:32:46 Exiting application..
+===========================================
+Log session started: 2026-09-05 01:33:04
+Application: PokeAlliance Client
+===========================================
+01:33:04 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 16996 MB
+Memory load: 47%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+01:33:04 GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+01:33:04 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+01:33:04 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+01:33:04 OpenAL Soft (OpenAL Community)
+01:33:04 OpenAL Soft version 1.1 ALSOFT 1.24.3
+01:33:04 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+01:33:04 == application started at Sep 05 2026 01:33:04
+01:33:04 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  5 2026 for arch x64
+00:07:25 Exiting application..
+===========================================
+Log session started: 2026-09-06 00:07:46
+Application: PokeAlliance Client
+===========================================
+00:07:46 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 15662 MB
+Memory load: 51%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+00:07:46 GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+00:07:46 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+00:07:46 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+00:07:46 OpenAL Soft (OpenAL Community)
+00:07:46 OpenAL Soft version 1.1 ALSOFT 1.24.3
+00:07:46 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+00:07:46 == application started at Sep 06 2026 00:07:46
+00:07:46 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  5 2026 for arch x64
+00:07:54 UI scaled to 0.93 (width: 0.42, height: 0.93)
+01:22:57 Exiting application..
+===========================================
+Log session started: 2026-09-06 02:24:36
+Application: PokeAlliance Client
+===========================================
+02:24:36 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 19497 MB
+Memory load: 40%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+02:24:36 GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+02:24:36 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+02:24:36 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+02:24:37 OpenAL Soft (OpenAL Community)
+02:24:37 OpenAL Soft version 1.1 ALSOFT 1.24.3
+02:24:37 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+02:24:37 == application started at Sep 06 2026 02:24:37
+02:24:37 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  5 2026 for arch x64
+03:46:14 ERROR: server said that a creature is known, but it's not
+at:
+	[C++]: ?getCreature@ProtocolGame@@QEAA?AV?$shared_ptr@VCreature@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@H@Z
+03:46:16     [ultima mensagem repetida 1 vezes]
+03:46:16 ERROR: no thing at pos:2816 2060 8, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+03:46:16 ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QEAA?AV?$shared_ptr@VCreature@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@H@Z
+03:46:16 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+03:46:19 ERROR: no thing at pos:2816 2060 8, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+03:46:19 ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QEAA?AV?$shared_ptr@VCreature@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@H@Z
+03:46:19 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+08:23:11 ERROR: no thing at pos:472 1356 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+08:23:11 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+08:24:25 ERROR: no thing at pos:411 1376 7, stackpos:4
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+08:24:25 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+08:26:27 ERROR: no thing at pos:488 1381 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+08:26:27 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+08:32:42 ERROR: no thing at pos:423 1371 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+08:32:42 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+08:36:55 ERROR: no thing at pos:414 1376 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+08:36:55 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+08:44:06 ERROR: no thing at pos:434 1349 7, stackpos:4
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+08:44:06 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+08:49:55 ERROR: no thing at pos:490 1368 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+08:49:55 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+08:54:10 ERROR: no thing at pos:449 1388 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+08:54:10 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+08:55:29 ERROR: no thing at pos:431 1345 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+08:55:29 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+08:55:53 ERROR: no thing at pos:462 1348 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+08:55:53 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+09:06:51 ERROR: no thing at pos:454 1397 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+09:06:51 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+09:08:33 ERROR: no thing at pos:458 1353 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+09:08:33 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+09:09:02 ERROR: no thing at pos:480 1368 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+09:09:02 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+09:14:03 ERROR: no thing at pos:426 1343 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+09:14:03 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+09:15:55 ERROR: no thing at pos:416 1370 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+09:15:55 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+09:17:51 ERROR: no thing at pos:444 1385 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+09:17:51 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+09:18:22 ERROR: no thing at pos:411 1369 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+09:18:22 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+09:18:39 ERROR: no thing at pos:426 1350 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+09:18:39 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+09:18:55 ERROR: no thing at pos:441 1351 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+09:18:55 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+09:20:42 ERROR: no thing at pos:408 1368 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+09:20:42 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+09:22:11 ERROR: no thing at pos:490 1368 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+09:22:11 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+09:25:17 ERROR: no thing at pos:407 1371 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+09:25:17 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+09:27:55 ERROR: no thing at pos:430 1345 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+09:27:55 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+09:35:18 ERROR: no thing at pos:467 1357 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+09:35:18 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+09:36:08 ERROR: no thing at pos:461 1394 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+09:36:08 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+22:35:38 ERROR: no thing at pos:2840 2040 9, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+22:35:38 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+23:28:58 ERROR: no thing at pos:2871 2042 9, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+23:28:58 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:16:17 Exiting application..
+===========================================
+Log session started: 2026-09-07 00:16:38
+Application: PokeAlliance Client
+===========================================
+00:16:38 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 20431 MB
+Memory load: 37%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+00:16:38 GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+00:16:38 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+00:16:38 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+00:16:39 OpenAL Soft (OpenAL Community)
+00:16:39 OpenAL Soft version 1.1 ALSOFT 1.24.3
+00:16:39 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+00:16:39 == application started at Sep 07 2026 00:16:39
+00:16:39 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  5 2026 for arch x64
+00:16:58 Exiting application..
+===========================================
+Log session started: 2026-09-07 00:18:35
+Application: PokeAlliance Client
+===========================================
+00:18:35 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 20521 MB
+Memory load: 37%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+00:18:35 GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+00:18:35 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+00:18:35 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+00:18:35 OpenAL Soft (OpenAL Community)
+00:18:35 OpenAL Soft version 1.1 ALSOFT 1.24.3
+00:18:35 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+00:18:35 == application started at Sep 07 2026 00:18:35
+00:18:35 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  5 2026 for arch x64
+00:19:00 Exiting application..
+===========================================
+Log session started: 2026-09-07 00:19:02
+Application: PokeAlliance Client
+===========================================
+00:19:02 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 19999 MB
+Memory load: 38%
+Process memory usage: 29 MB
+Peak memory usage: 63 MB
+==========================
+
+00:19:02 GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+00:19:02 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+00:19:02 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+00:19:02 OpenAL Soft (OpenAL Community)
+00:19:02 OpenAL Soft version 1.1 ALSOFT 1.24.3
+00:19:02 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+00:19:02 == application started at Sep 07 2026 00:19:02
+00:19:02 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  5 2026 for arch x64
+00:19:16 Exiting application..
+===========================================
+Log session started: 2026-09-07 00:19:19
+Application: PokeAlliance Client
+===========================================
+00:19:19 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 20466 MB
+Memory load: 37%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+00:19:19 GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+00:19:19 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+00:19:19 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+00:19:19 OpenAL Soft (OpenAL Community)
+00:19:19 OpenAL Soft version 1.1 ALSOFT 1.24.3
+00:19:19 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+00:19:19 == application started at Sep 07 2026 00:19:19
+00:19:19 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  5 2026 for arch x64
+00:19:35 Exiting application..
+===========================================
+Log session started: 2026-09-07 00:20:31
+Application: PokeAlliance Client
+===========================================
+00:20:31 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 20472 MB
+Memory load: 37%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+00:20:32 GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+00:20:32 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+00:20:32 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+00:20:32 OpenAL Soft (OpenAL Community)
+00:20:32 OpenAL Soft version 1.1 ALSOFT 1.24.3
+00:20:32 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+00:20:32 == application started at Sep 07 2026 00:20:32
+00:20:32 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  5 2026 for arch x64
+00:20:49 Exiting application..
+===========================================
+Log session started: 2026-09-07 00:21:11
+Application: PokeAlliance Client
+===========================================
+00:21:11 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 20425 MB
+Memory load: 37%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+00:21:12 GPU Intel(R) UHD Graphics (Intel)
+00:21:12 OpenGL 4.6.0 - Build 31.0.101.2135
+00:21:12 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+00:21:12 OpenAL Soft (OpenAL Community)
+00:21:12 OpenAL Soft version 1.1 ALSOFT 1.24.3
+00:21:12 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+00:21:12 == application started at Sep 07 2026 00:21:12
+00:21:12 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  7 2026 for arch x64
+00:37:52 Exiting application..
+===========================================
+Log session started: 2026-09-07 00:38:06
+Application: PokeAlliance Client
+===========================================
+00:38:06 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 20564 MB
+Memory load: 36%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+00:38:06 GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+00:38:06 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+00:38:06 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+00:38:06 OpenAL Soft (OpenAL Community)
+00:38:06 OpenAL Soft version 1.1 ALSOFT 1.24.3
+00:38:06 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+00:38:06 == application started at Sep 07 2026 00:38:06
+00:38:06 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  7 2026 for arch x64
+03:44:48 ERROR: no thing at pos:2007 3951 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+03:44:48 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+03:44:53 ERROR: no thing at pos:2007 3952 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+03:44:53 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+03:44:58 ERROR: no thing at pos:2007 3951 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+03:44:58 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+03:45:03 ERROR: no thing at pos:2007 3952 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+03:45:03 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+03:45:08 ERROR: no thing at pos:2007 3951 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+03:45:08 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+03:45:13 ERROR: no thing at pos:2007 3952 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+03:45:13 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+03:45:18 ERROR: no thing at pos:2007 3951 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+03:45:18 ERROR: no thing
+at:
+	[C++]: ?parseTileRemoveThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+10:00:45 ERROR: no thing at pos:490 1375 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+10:00:45 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+10:01:11 ERROR: no thing at pos:455 1354 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+10:01:11 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+10:19:30 ERROR: no thing at pos:456 1353 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+10:19:30 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+10:23:54 ERROR: no thing at pos:424 1354 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+10:23:54 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+10:27:48 ERROR: no thing at pos:489 1369 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+10:27:48 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+10:28:00 ERROR: no thing at pos:473 1364 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+10:28:00 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+10:30:47 ERROR: no thing at pos:416 1370 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+10:30:47 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+10:38:54 ERROR: no thing at pos:477 1384 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+10:38:54 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+10:39:27 ERROR: no thing at pos:469 1358 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+10:39:27 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+10:44:51 ERROR: no thing at pos:455 1354 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+10:44:51 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+10:51:24 ERROR: no thing at pos:462 1392 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+10:51:24 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+10:59:24 ERROR: no thing at pos:455 1356 7, stackpos:4
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+10:59:24 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+11:02:10 ERROR: no thing at pos:443 1349 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+11:02:10 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+11:04:51 ERROR: no thing at pos:476 1366 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+11:04:51 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+11:07:17 ERROR: no thing at pos:416 1354 7, stackpos:5
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+11:07:17 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+11:16:18 ERROR: no thing at pos:479 1368 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+11:16:18 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+11:26:07 ERROR: no thing at pos:441 1384 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+11:26:07 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+11:27:34 ERROR: no thing at pos:424 1354 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+11:27:34 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+11:36:46 ERROR: no thing at pos:426 1382 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+11:36:46 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+11:38:18 ERROR: no thing at pos:452 1351 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+11:38:18 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+11:38:33 ERROR: no thing at pos:419 1346 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+11:38:33 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+11:40:49 ERROR: no thing at pos:433 1346 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+11:40:49 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+11:54:40 ERROR: no thing at pos:448 1388 7, stackpos:4
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+11:54:40 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+11:56:39 ERROR: no thing at pos:448 1349 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+11:56:39 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+11:59:18 ERROR: no thing at pos:421 1356 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+11:59:18 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+12:00:00 ERROR: no thing at pos:456 1388 7, stackpos:4
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+12:00:00 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+12:06:21 ERROR: no thing at pos:480 1387 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+12:06:21 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+12:28:35 ERROR: no thing at pos:466 1351 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+12:28:35 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+12:34:44 ERROR: no thing at pos:452 1397 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+12:34:44 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+12:36:53 ERROR: no thing at pos:442 1384 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+12:36:53 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+12:43:23 ERROR: no thing at pos:440 1384 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+12:43:23 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+12:45:41 ERROR: no thing at pos:443 1397 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+12:45:41 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+12:46:59 ERROR: no thing at pos:427 1352 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+12:46:59 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+12:51:05 ERROR: no thing at pos:432 1340 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+12:51:05 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+12:51:19 ERROR: no thing at pos:421 1354 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+12:51:19 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+12:55:01 ERROR: no thing at pos:428 1353 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+12:55:01 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+12:57:34 ERROR: no thing at pos:412 1367 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+12:57:34 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+13:06:41 ERROR: no thing at pos:446 1397 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+13:06:41 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+13:14:10 ERROR: no thing at pos:438 1346 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+13:14:10 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+13:14:58 ERROR: no thing at pos:422 1380 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+13:14:58 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+13:16:22 ERROR: no thing at pos:427 1339 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+13:16:22 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+13:17:14 ERROR: no thing at pos:458 1387 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+13:17:14 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+13:20:39 ERROR: no thing at pos:462 1350 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+13:20:39 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+13:29:39 ERROR: no thing at pos:423 1380 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+13:29:39 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+===========================================
+Log session started: 2026-09-07 13:32:35
+Application: PokeAlliance Client
+===========================================
+13:32:35 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 16701 MB
+Memory load: 48%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+13:32:35 GPU Intel(R) UHD Graphics (Intel)
+13:32:35 OpenGL 4.6.0 - Build 31.0.101.2135
+13:32:35 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+13:32:36 OpenAL Soft (OpenAL Community)
+13:32:36 OpenAL Soft version 1.1 ALSOFT 1.24.3
+13:32:36 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+13:32:36 == application started at Sep 07 2026 13:32:36
+13:32:36 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  7 2026 for arch x64
+13:32:52 Exiting application..
+13:33:00 Exiting application..
+===========================================
+Log session started: 2026-09-07 13:33:08
+Application: PokeAlliance Client
+===========================================
+13:33:08 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 20068 MB
+Memory load: 38%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+13:33:08 GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+13:33:08 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+13:33:08 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+13:33:09 OpenAL Soft (OpenAL Community)
+13:33:09 OpenAL Soft version 1.1 ALSOFT 1.24.3
+13:33:09 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+13:33:09 == application started at Sep 07 2026 13:33:09
+13:33:09 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  7 2026 for arch x64
+13:35:59 Exiting application..
+===========================================
+Log session started: 2026-09-07 14:50:08
+Application: PokeAlliance Client
+===========================================
+14:50:08 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 19158 MB
+Memory load: 41%
+Process memory usage: 17 MB
+Peak memory usage: 50 MB
+==========================
+
+14:50:08 GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+14:50:08 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+14:50:08 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+14:50:09 OpenAL Soft (OpenAL Community)
+14:50:09 OpenAL Soft version 1.1 ALSOFT 1.24.3
+14:50:09 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+14:50:09 == application started at Sep 07 2026 14:50:09
+14:50:09 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  7 2026 for arch x64
+17:01:30 ERROR: no thing at pos:3616 1851 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+17:01:30 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+17:01:47 ERROR: no thing at pos:3610 1828 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+17:01:47 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+17:02:26 ERROR: no thing at pos:3614 1850 7, stackpos:4
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+17:02:26 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:22:41 Exiting application..
+===========================================
+Log session started: 2026-09-08 00:23:09
+Application: PokeAlliance Client
+===========================================
+00:23:09 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 18274 MB
+Memory load: 43%
+Process memory usage: 17 MB
+Peak memory usage: 17 MB
+==========================
+
+00:23:09 GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+00:23:09 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+00:23:09 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+00:23:09 OpenAL Soft (OpenAL Community)
+00:23:09 OpenAL Soft version 1.1 ALSOFT 1.24.3
+00:23:09 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+00:23:09 == application started at Sep 08 2026 00:23:09
+00:23:09 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  7 2026 for arch x64
+21:37:51 ERROR: unable to remove creature
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+21:37:52 ERROR: no thing at pos:1551 2054 11, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+21:37:52 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+21:37:55 ERROR: no thing at pos:1551 2055 11, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+21:37:55 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+21:37:55 ERROR: no thing at pos:1552 2055 11, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+21:37:55 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:16:40 Exiting application..
+===========================================
+Log session started: 2026-09-09 00:27:06
+Application: PokeAlliance Client
+===========================================
+00:27:06 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 14233 MB
+Memory load: 56%
+Process memory usage: 17 MB
+Peak memory usage: 17 MB
+==========================
+
+00:27:06 GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+00:27:06 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+00:27:06 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+00:27:06 OpenAL Soft (OpenAL Community)
+00:27:06 OpenAL Soft version 1.1 ALSOFT 1.24.3
+00:27:06 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+00:27:06 == application started at Sep 09 2026 00:27:06
+00:27:06 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  8 2026 for arch x64
+08:32:16 ERROR: no thing at pos:442 1352 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+08:32:16 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+08:52:02 ERROR: no thing at pos:441 1351 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+08:52:02 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+19:09:53 ERROR: no thing at pos:3750 3594 4, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+19:09:53 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+19:21:33 ERROR: no thing at pos:3754 3727 6, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+19:21:33 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+23:07:21 ERROR: no thing at pos:3394 2007 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+23:07:21 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:40:41 ERROR: unable to remove creature
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:40:43 ERROR: no thing at pos:1008 2429 13, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+00:40:43 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:40:45 ERROR: unable to remove creature
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:40:47 ERROR: no thing at pos:1007 2430 13, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+00:40:47 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:40:52 ERROR: no thing at pos:1006 2430 13, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+00:40:52 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:40:57 ERROR: no thing at pos:1006 2431 13, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+00:40:57 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:41:02 ERROR: no thing at pos:1006 2430 13, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+00:41:02 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:41:07 ERROR: no thing at pos:1007 2430 13, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+00:41:07 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:41:12 ERROR: no thing at pos:1007 2431 13, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+00:41:12 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:41:14 ERROR: no thing at pos:1007 2430 13, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+00:41:14 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:41:16 ERROR: no thing at pos:1008 2430 13, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+00:41:16 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:41:20 ERROR: no thing at pos:1008 2429 13, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+00:41:20 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:41:22 ERROR: unable to remove creature
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:41:24 ERROR: no thing at pos:1007 2430 13, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+00:41:24 ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:41:26 ERROR: unable to remove creature
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+00:41:27 ERROR: no thing at pos:1007 2430 13, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QEAA?AV?$shared_ptr@VThing@@@std@@AEBV?$shared_ptr@VInputMessage@@@3@@Z
+00:41:27 ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+16:02:07 Exiting application..
