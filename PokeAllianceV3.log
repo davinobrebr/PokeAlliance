@@ -2664,3 +2664,78 @@ at:
 at:
 	[C++]: ?parseTileTransformThing@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
 16:02:07 Exiting application..
+===========================================
+Log session started: 2026-09-10 16:22:16
+Application: PokeAlliance Client
+===========================================
+16:22:16 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 15630 MB
+Memory load: 52%
+Process memory usage: 17 MB
+Peak memory usage: 17 MB
+==========================
+
+16:22:16 GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+16:22:16 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+16:22:16 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+16:22:17 OpenAL Soft (OpenAL Community)
+16:22:17 OpenAL Soft version 1.1 ALSOFT 1.24.3
+16:22:17 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+16:22:17 == application started at Sep 10 2026 16:22:17
+16:22:17 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  8 2026 for arch x64
+16:27:52 Exiting application..
+===========================================
+Log session started: 2026-09-10 16:28:00
+Application: PokeAlliance Client
+===========================================
+16:28:00 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 16255 MB
+Memory load: 50%
+Process memory usage: 17 MB
+Peak memory usage: 17 MB
+==========================
+
+16:28:00 GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+16:28:00 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+16:28:00 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+16:28:01 OpenAL Soft (OpenAL Community)
+16:28:01 OpenAL Soft version 1.1 ALSOFT 1.24.3
+16:28:01 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+16:28:01 == application started at Sep 10 2026 16:28:01
+16:28:01 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep  8 2026 for arch x64
+02:10:45 Exiting application..
+===========================================
+Log session started: 2026-09-11 02:24:58
+Application: PokeAlliance Client
+===========================================
+02:24:58 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 15091 MB
+Memory load: 53%
+Process memory usage: 17 MB
+Peak memory usage: 17 MB
+==========================
+
+02:24:58 GPU ANGLE (Intel, Intel(R) UHD Graphics (0x00009BC4) Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.101.2135) (Google Inc. (Intel))
+02:24:58 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+02:24:58 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+02:24:59 OpenAL Soft (OpenAL Community)
+02:24:59 OpenAL Soft version 1.1 ALSOFT 1.24.3
+02:24:59 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+02:24:59 == application started at Sep 11 2026 02:24:59
+02:24:59 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Sep 10 2026 for arch x64
+02:25:10 Exiting application..
