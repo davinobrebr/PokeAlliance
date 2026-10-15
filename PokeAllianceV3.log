@@ -155756,3 +155756,510 @@ Peak memory usage: 16 MB
 00:08:59 == application started at Oct 11 2026 00:08:59
 00:08:59 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Oct 10 2026 for arch x64
 22:59:57 Exiting application..
+===========================================
+Log session started: 2026-10-11 23:00:30
+Application: PokeAlliance Client
+===========================================
+23:00:30 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 15273 MB
+Memory load: 53%
+Process memory usage: 16 MB
+Peak memory usage: 16 MB
+==========================
+
+23:00:30 GPU ANGLE (NVIDIA, NVIDIA GeForce RTX 2070 with Max-Q Design (0x00001F14) Direct3D11 vs_5_0 ps_5_0, D3D11-32.0.16.1088) (Google Inc. (NVIDIA))
+23:00:30 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+23:00:30 [Atlas] Sprite atlas: 4096x4096, text atlas: 8192x8192 (max: 16384x16384)
+23:00:30 OpenAL Soft (OpenAL Community)
+23:00:30 OpenAL Soft version 1.1 ALSOFT 1.24.3
+23:00:30 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+23:00:30 == application started at Oct 11 2026 23:00:30
+23:00:30 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Oct 11 2026 for arch x64
+20:08:06 ERROR: could not get creature
+at:
+	[C++]: ?parseCreatureOutfit@ProtocolGame@@AEAAXAEBV?$shared_ptr@VInputMessage@@@std@@@Z
+07:30:15     [ultima mensagem repetida 1 vezes]
+07:30:15 Exiting application..
+===========================================
+Log session started: 2026-10-14 07:31:46
+Application: PokeAlliance Client
+===========================================
+07:31:46 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 15410 MB
+Memory load: 52%
+Process memory usage: 18 MB
+Peak memory usage: 18 MB
+==========================
+
+07:31:47 GPU ANGLE (NVIDIA, NVIDIA GeForce RTX 2070 with Max-Q Design (0x00001F14) Direct3D11 vs_5_0 ps_5_0, D3D11-32.0.16.1088) (Google Inc. (NVIDIA))
+07:31:47 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+07:31:47 [Atlas] Text atlas: 4096x4096 (max: 16384x16384)
+07:31:48 OpenAL Soft (OpenAL Community)
+07:31:48 OpenAL Soft version 1.1 ALSOFT 1.24.3
+07:31:48 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+07:31:48 == application started at Oct 14 2026 07:31:48
+07:31:48 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Oct 14 2026 for arch x64
+08:40:16 ERROR: no thing at pos:2841 2041 9, stackpos:2
+08:40:16 ERROR: no thing
+18:28:48 ERROR: unable to remove thing
+18:31:20 ERROR: no thing at pos:559 3112 7, stackpos:15
+18:31:20 ERROR: no creature found to move
+18:31:20 ERROR: no thing at pos:558 3112 7, stackpos:9
+18:31:20 ERROR: no creature found to move
+18:31:21 ERROR: unable to remove creature
+18:31:24 ERROR: no thing at pos:561 3110 7, stackpos:2
+18:31:24 ERROR: no creature found to move
+18:31:24 ERROR: no thing at pos:560 3111 7, stackpos:14
+18:31:24 ERROR: no creature found to move
+18:31:25 ERROR: no thing at pos:557 3110 7, stackpos:2
+18:31:25 ERROR: no creature found to move
+18:31:25 ERROR: no thing at pos:559 3112 7, stackpos:15
+18:31:25 ERROR: no creature found to move
+18:31:25 ERROR: no thing at pos:558 3112 7, stackpos:9
+18:31:25 ERROR: no creature found to move
+18:31:26 ERROR: no thing at pos:559 3112 7, stackpos:15
+18:31:26 ERROR: no creature found to move
+18:31:26 ERROR: no thing at pos:556 3110 7, stackpos:1
+18:31:26 ERROR: no creature found to move
+18:31:26 ERROR: no thing at pos:558 3112 7, stackpos:9
+18:31:26 ERROR: no creature found to move
+18:31:27 ERROR: no thing at pos:561 3111 7, stackpos:3
+18:31:27 ERROR: no creature found to move
+18:31:27 ERROR: no thing at pos:559 3112 7, stackpos:15
+18:31:27 ERROR: no creature found to move
+18:31:27 ERROR: no thing at pos:556 3109 7, stackpos:3
+18:31:27 ERROR: no creature found to move
+18:31:28 ERROR: no thing at pos:555 3109 7, stackpos:2
+18:31:28 ERROR: no creature found to move
+18:31:28 ERROR: no thing at pos:562 3111 7, stackpos:1
+18:31:28 ERROR: no creature found to move
+18:31:29 ERROR: no thing at pos:561 3111 7, stackpos:3
+18:31:29 ERROR: no creature found to move
+18:31:29 ERROR: no thing at pos:562 3112 7, stackpos:1
+18:31:29 ERROR: no creature found to move
+18:31:29 ERROR: no thing at pos:561 3112 7, stackpos:2
+18:31:29 ERROR: no thing
+18:31:29 ERROR: no thing at pos:558 3108 7, stackpos:5
+18:31:29 ERROR: no creature found to move
+18:31:29 ERROR: no thing at pos:558 3109 7, stackpos:3
+18:31:29 ERROR: no creature found to move
+18:31:29 ERROR: no thing at pos:558 3111 7, stackpos:15
+18:31:29 ERROR: no creature found to move
+18:31:30 ERROR: no thing at pos:561 3112 7, stackpos:3
+18:31:30 ERROR: no creature found to move
+18:31:30 ERROR: no thing at pos:561 3112 7, stackpos:2
+18:31:30 ERROR: no creature found to move
+18:31:30 ERROR: no thing at pos:554 3109 7, stackpos:1
+18:31:30 ERROR: no creature found to move
+18:31:30 ERROR: no thing at pos:560 3112 7, stackpos:8
+18:31:30 ERROR: no creature found to move
+18:31:30 ERROR: no thing at pos:562 3112 7, stackpos:2
+18:31:30 ERROR: no thing
+18:31:31 ERROR: no thing at pos:561 3111 7, stackpos:3
+18:31:31 ERROR: no creature found to move
+18:31:32 ERROR: unable to remove creature
+18:31:32     [ultima mensagem repetida 1 vezes]
+18:31:32 ERROR: no thing at pos:559 3110 7, stackpos:14
+18:31:32 ERROR: no creature found to move
+18:31:37 ERROR: unable to remove creature
+18:31:37 ERROR: no thing at pos:561 3110 7, stackpos:2
+18:31:37 ERROR: no thing
+18:31:37 ERROR: unable to remove creature
+18:31:38     [ultima mensagem repetida 1 vezes]
+18:31:38 ERROR: no thing at pos:560 3111 7, stackpos:13
+18:31:38 ERROR: no creature found to move
+18:31:38 ERROR: no thing at pos:562 3112 7, stackpos:3
+18:31:38 ERROR: no creature found to move
+18:31:38 ERROR: no thing at pos:560 3112 7, stackpos:9
+18:31:38 ERROR: no creature found to move
+18:31:39 ERROR: no thing at pos:561 3110 7, stackpos:2
+18:31:39 ERROR: no creature found to move
+18:31:39 ERROR: no thing at pos:563 3113 7, stackpos:2
+18:31:39 ERROR: no creature found to move
+18:31:39 ERROR: no thing at pos:562 3113 7, stackpos:3
+18:31:39 ERROR: no creature found to move
+18:31:39 ERROR: no thing at pos:561 3113 7, stackpos:3
+18:31:39 ERROR: no creature found to move
+18:31:39 ERROR: no thing at pos:560 3113 7, stackpos:2
+18:31:39 ERROR: no creature found to move
+18:31:40 ERROR: no thing at pos:561 3111 7, stackpos:3
+18:31:40 ERROR: no thing
+18:31:40 ERROR: no thing at pos:555 3109 7, stackpos:2
+18:31:40 ERROR: no creature found to move
+18:31:40 ERROR: no thing at pos:561 3111 7, stackpos:3
+18:31:40 ERROR: no creature found to move
+18:31:41 ERROR: no thing at pos:555 3110 7, stackpos:1
+18:31:41 ERROR: no creature found to move
+18:31:42 ERROR: no thing at pos:561 3112 7, stackpos:2
+18:31:42 ERROR: no creature found to move
+18:31:42 ERROR: no thing at pos:558 3111 7, stackpos:13
+18:31:42 ERROR: no creature found to move
+18:31:43 ERROR: no thing at pos:556 3110 7, stackpos:2
+18:31:43 ERROR: no creature found to move
+18:31:43 ERROR: no thing at pos:556 3111 7, stackpos:2
+18:31:43 ERROR: no creature found to move
+18:31:44 ERROR: unable to remove creature
+18:31:44 ERROR: no thing at pos:560 3111 7, stackpos:14
+18:31:44 ERROR: no creature found to move
+18:31:44     [ultima mensagem repetida 1 vezes]
+18:31:44 ERROR: no thing at pos:560 3111 7, stackpos:14
+18:31:44 ERROR: no creature found to move
+18:31:44 ERROR: unable to remove creature
+18:31:44 ERROR: no creature found to move
+18:31:45 ERROR: no thing at pos:558 3112 7, stackpos:9
+18:31:45 ERROR: no creature found to move
+18:31:45 ERROR: unable to remove thing
+18:31:45 ERROR: no thing at pos:555 3111 7, stackpos:1
+18:31:45 ERROR: no creature found to move
+18:31:46 ERROR: no thing at pos:562 3112 7, stackpos:3
+18:31:46 ERROR: no creature found to move
+18:31:46 ERROR: no thing at pos:563 3112 7, stackpos:2
+18:31:46 ERROR: no creature found to move
+18:31:47 ERROR: no thing at pos:558 3111 7, stackpos:12
+18:31:47 ERROR: no creature found to move
+18:31:47 ERROR: no thing at pos:564 3112 7, stackpos:3
+18:31:47 ERROR: no creature found to move
+18:31:47 ERROR: no thing at pos:558 3112 7, stackpos:9
+18:31:47 ERROR: no creature found to move
+18:31:47 ERROR: no thing at pos:558 3113 7, stackpos:1
+18:31:47 ERROR: no creature found to move
+18:31:47 ERROR: unable to remove creature
+18:31:47 ERROR: no thing at pos:559 3113 7, stackpos:2
+18:31:47 ERROR: no creature found to move
+18:31:47 ERROR: no thing at pos:560 3109 7, stackpos:2
+18:31:47 ERROR: no creature found to move
+18:31:48 ERROR: unable to remove creature
+18:31:48 ERROR: no thing at pos:560 3113 7, stackpos:2
+18:31:48 ERROR: no creature found to move
+18:31:48 ERROR: no thing at pos:560 3112 7, stackpos:9
+18:31:48 ERROR: no creature found to move
+18:31:48 ERROR: no thing at pos:562 3112 7, stackpos:3
+18:31:48 ERROR: no creature found to move
+18:31:50 ERROR: no thing at pos:564 3113 7, stackpos:3
+18:31:50 ERROR: no creature found to move
+18:31:50 ERROR: no thing at pos:564 3114 7, stackpos:3
+18:31:50 ERROR: no creature found to move
+18:31:52 ERROR: no thing at pos:559 3112 7, stackpos:15
+18:31:52 ERROR: no creature found to move
+18:31:52 ERROR: no thing at pos:555 3112 7, stackpos:1
+18:31:52 ERROR: no creature found to move
+18:31:52 ERROR: no thing at pos:555 3111 7, stackpos:1
+18:31:52 ERROR: no creature found to move
+18:31:53 ERROR: no thing at pos:555 3110 7, stackpos:1
+18:31:53 ERROR: no creature found to move
+18:31:53 ERROR: no thing at pos:557 3115 7, stackpos:2
+18:31:53 ERROR: no creature found to move
+18:31:53 ERROR: no thing at pos:556 3115 7, stackpos:2
+18:31:53 ERROR: no creature found to move
+18:31:54 ERROR: no thing at pos:557 3115 7, stackpos:2
+18:31:54 ERROR: no creature found to move
+18:31:54 ERROR: no thing at pos:564 3115 7, stackpos:3
+18:31:54 ERROR: no creature found to move
+18:31:54 ERROR: no thing at pos:558 3115 7, stackpos:1
+18:31:54 ERROR: no creature found to move
+18:31:54 ERROR: no thing at pos:564 3114 7, stackpos:3
+18:31:54 ERROR: no creature found to move
+18:31:54 ERROR: no thing at pos:555 3109 7, stackpos:2
+18:31:54 ERROR: no creature found to move
+18:31:54 ERROR: no thing at pos:559 3115 7, stackpos:2
+18:31:54 ERROR: no creature found to move
+18:31:54 ERROR: no thing at pos:564 3115 7, stackpos:3
+18:31:54 ERROR: no creature found to move
+18:31:54 ERROR: no thing at pos:555 3108 7, stackpos:2
+18:31:54 ERROR: no creature found to move
+18:31:55 ERROR: no thing at pos:559 3116 7, stackpos:1
+18:31:55 ERROR: no creature found to move
+18:31:55 ERROR: no thing at pos:555 3107 7, stackpos:1
+18:31:55 ERROR: no creature found to move
+18:31:55     [ultima mensagem repetida 1 vezes]
+18:31:55 ERROR: no thing at pos:558 3109 7, stackpos:3
+18:31:55 ERROR: no creature found to move
+18:31:55 ERROR: no thing at pos:559 3117 7, stackpos:2
+18:31:55 ERROR: no creature found to move
+18:31:55 ERROR: no thing at pos:555 3106 7, stackpos:1
+18:31:55 ERROR: no creature found to move
+18:31:55 ERROR: unable to remove creature
+18:31:55 ERROR: no thing at pos:560 3117 7, stackpos:3
+18:31:55 ERROR: no creature found to move
+18:31:55 ERROR: no thing at pos:556 3106 7, stackpos:1
+18:31:55 ERROR: no creature found to move
+18:31:56     [ultima mensagem repetida 1 vezes]
+18:31:56 ERROR: no thing at pos:557 3106 7, stackpos:1
+18:31:56 ERROR: no creature found to move
+18:31:56 ERROR: no thing at pos:561 3117 7, stackpos:2
+18:31:56 ERROR: no creature found to move
+18:31:56 ERROR: no thing at pos:565 3117 7, stackpos:2
+18:31:56 ERROR: no creature found to move
+18:31:56 ERROR: no thing at pos:558 3106 7, stackpos:2
+18:31:56 ERROR: no creature found to move
+18:31:56 ERROR: no thing at pos:560 3117 7, stackpos:3
+18:31:56 ERROR: no creature found to move
+18:31:56 ERROR: no thing at pos:566 3117 7, stackpos:2
+18:31:56 ERROR: no creature found to move
+18:31:56 ERROR: no thing at pos:558 3105 7, stackpos:1
+18:31:56 ERROR: no creature found to move
+18:31:56 ERROR: unable to remove creature
+18:31:56 ERROR: no thing at pos:558 3104 7, stackpos:2
+18:31:56 ERROR: no creature found to move
+18:31:56 ERROR: no thing at pos:559 3117 7, stackpos:2
+18:31:56 ERROR: no creature found to move
+18:31:57 ERROR: no thing at pos:560 3112 7, stackpos:9
+18:31:57 ERROR: no creature found to move
+18:31:57 ERROR: no thing at pos:558 3103 7, stackpos:1
+18:31:57 ERROR: no creature found to move
+18:31:57 ERROR: no thing at pos:559 3116 7, stackpos:1
+18:31:57 ERROR: no creature found to move
+18:31:57 ERROR: no thing at pos:558 3112 7, stackpos:13
+18:31:57 ERROR: no thing
+18:31:57 ERROR: no thing at pos:559 3115 7, stackpos:1
+18:31:57 ERROR: no creature found to move
+18:31:58 ERROR: unable to remove creature
+18:31:58 ERROR: no thing at pos:561 3110 7, stackpos:2
+18:31:58 ERROR: no creature found to move
+18:31:59     [ultima mensagem repetida 1 vezes]
+18:31:59 ERROR: no thing at pos:567 3117 7, stackpos:3
+18:31:59 ERROR: no creature found to move
+18:31:59 ERROR: no thing at pos:563 3110 7, stackpos:2
+18:31:59 ERROR: no creature found to move
+18:31:59 ERROR: no thing at pos:567 3116 7, stackpos:1
+18:31:59 ERROR: no creature found to move
+18:32:00 ERROR: no thing at pos:567 3115 7, stackpos:2
+18:32:00 ERROR: no thing
+18:32:00 ERROR: no thing at pos:567 3115 7, stackpos:2
+18:32:00 ERROR: no thing
+18:32:00 ERROR: no thing at pos:563 3111 7, stackpos:2
+18:32:00 ERROR: no creature found to move
+18:32:02 ERROR: unable to remove creature
+18:32:03     [ultima mensagem repetida 4 vezes]
+18:32:03 ERROR: no thing at pos:556 3110 7, stackpos:2
+18:32:03 ERROR: no creature found to move
+18:32:03 ERROR: no thing at pos:555 3110 7, stackpos:1
+18:32:03 ERROR: no creature found to move
+18:32:03 ERROR: no thing at pos:554 3110 7, stackpos:1
+18:32:03 ERROR: no creature found to move
+18:32:04 ERROR: no thing at pos:553 3110 7, stackpos:1
+18:32:04 ERROR: no creature found to move
+18:32:04 ERROR: no thing at pos:552 3110 7, stackpos:1
+18:32:04 ERROR: no creature found to move
+18:32:04 ERROR: no thing at pos:559 3112 7, stackpos:15
+18:32:04 ERROR: no creature found to move
+18:32:05 ERROR: unable to remove creature
+18:32:05 ERROR: no thing at pos:551 3110 7, stackpos:3
+18:32:05 ERROR: no creature found to move
+18:32:05 ERROR: unable to remove creature
+18:32:05 ERROR: no thing at pos:551 3111 7, stackpos:1
+18:32:05 ERROR: no creature found to move
+18:32:06 ERROR: unable to remove creature
+18:32:06 ERROR: no thing at pos:560 3112 7, stackpos:9
+18:32:06 ERROR: no thing
+18:32:06 ERROR: unable to remove creature
+18:32:06 ERROR: no thing at pos:560 3112 7, stackpos:9
+18:32:06 ERROR: no creature found to move
+18:32:07 ERROR: no thing at pos:558 3113 7, stackpos:1
+18:32:07 ERROR: no thing
+18:32:07 ERROR: no thing at pos:551 3112 7, stackpos:1
+18:32:07 ERROR: no creature found to move
+18:32:07 ERROR: no thing at pos:558 3111 7, stackpos:12
+18:32:07 ERROR: no thing
+18:32:07 ERROR: no thing at pos:559 3112 7, stackpos:15
+18:32:07 ERROR: no thing
+18:32:08 ERROR: no thing at pos:551 3113 7, stackpos:1
+18:32:08 ERROR: no creature found to move
+18:32:08 ERROR: no thing at pos:558 3113 7, stackpos:2
+18:32:08 ERROR: no creature found to move
+18:32:08 ERROR: no thing at pos:551 3112 7, stackpos:1
+18:32:08 ERROR: no creature found to move
+18:32:08 ERROR: no thing at pos:558 3112 7, stackpos:13
+18:32:08 ERROR: no creature found to move
+18:32:09 ERROR: no thing at pos:558 3111 7, stackpos:13
+18:32:09 ERROR: no creature found to move
+18:32:09 ERROR: no thing at pos:551 3111 7, stackpos:1
+18:32:09 ERROR: no creature found to move
+18:32:09 ERROR: no thing at pos:558 3116 7, stackpos:2
+18:32:09 ERROR: no thing
+18:32:09 ERROR: no thing at pos:552 3111 7, stackpos:1
+18:32:09 ERROR: no creature found to move
+18:32:10 ERROR: unable to remove creature
+18:32:11 ERROR: no thing at pos:551 3111 7, stackpos:1
+18:32:11 ERROR: no creature found to move
+18:32:11 ERROR: no thing at pos:551 3112 7, stackpos:1
+18:32:11 ERROR: no creature found to move
+18:32:12 ERROR: no thing at pos:552 3112 7, stackpos:1
+18:32:12 ERROR: no creature found to move
+18:32:12 ERROR: no thing at pos:553 3112 7, stackpos:1
+18:32:12 ERROR: no creature found to move
+18:32:12 ERROR: no thing at pos:557 3103 7, stackpos:2
+18:32:12 ERROR: no creature found to move
+18:32:12 ERROR: no thing at pos:554 3112 7, stackpos:1
+18:32:12 ERROR: no creature found to move
+18:32:13 ERROR: no thing at pos:558 3103 7, stackpos:1
+18:32:13 ERROR: no creature found to move
+18:32:13 ERROR: no thing at pos:555 3112 7, stackpos:1
+18:32:13 ERROR: no creature found to move
+18:32:13 ERROR: no thing at pos:559 3103 7, stackpos:1
+18:32:13 ERROR: no creature found to move
+18:32:13 ERROR: unable to remove thing
+18:32:13 ERROR: no thing at pos:560 3103 7, stackpos:2
+18:32:13 ERROR: no creature found to move
+18:32:13 ERROR: no thing at pos:559 3103 7, stackpos:1
+18:32:13 ERROR: no creature found to move
+18:32:13 ERROR: no thing at pos:556 3112 7, stackpos:1
+18:32:13 ERROR: no creature found to move
+18:32:14 ERROR: unable to remove creature
+18:32:14 ERROR: no thing at pos:558 3113 7, stackpos:2
+18:32:14 ERROR: no creature found to move
+18:32:15 ERROR: unable to remove creature
+18:32:15 ERROR: no thing at pos:558 3103 7, stackpos:1
+18:32:15 ERROR: no creature found to move
+18:32:18 ERROR: unable to remove creature
+18:32:19 ERROR: no thing at pos:552 3109 7, stackpos:2
+18:32:19 ERROR: no creature found to move
+18:32:19 ERROR: unable to remove creature
+18:32:19 ERROR: no thing at pos:556 3112 7, stackpos:1
+18:32:19 ERROR: no creature found to move
+18:32:20 ERROR: no thing at pos:551 3110 7, stackpos:3
+18:32:20 ERROR: no creature found to move
+18:32:20 ERROR: no thing at pos:555 3112 7, stackpos:2
+18:32:20 ERROR: no creature found to move
+18:32:20 ERROR: no thing at pos:554 3112 7, stackpos:1
+18:32:20 ERROR: no creature found to move
+18:32:20 ERROR: unable to remove creature
+18:32:20 ERROR: no thing at pos:560 3113 7, stackpos:3
+18:32:20 ERROR: no creature found to move
+18:32:20 ERROR: no thing at pos:560 3112 7, stackpos:8
+18:32:20 ERROR: no creature found to move
+18:32:20 ERROR: no thing at pos:558 3111 7, stackpos:14
+18:32:20 ERROR: no creature found to move
+18:32:20 ERROR: no thing at pos:551 3111 7, stackpos:1
+18:32:20 ERROR: no creature found to move
+18:32:20 ERROR: no thing at pos:553 3112 7, stackpos:1
+18:32:20 ERROR: no creature found to move
+18:32:20 ERROR: unable to remove creature
+18:32:21 ERROR: no thing at pos:561 3112 7, stackpos:3
+18:32:21 ERROR: no creature found to move
+18:32:21 ERROR: no thing at pos:561 3114 7, stackpos:1
+18:32:21 ERROR: no creature found to move
+18:32:21 ERROR: no thing at pos:562 3114 7, stackpos:2
+18:32:21 ERROR: no creature found to move
+18:32:21 ERROR: no thing at pos:551 3112 7, stackpos:1
+18:32:21 ERROR: no creature found to move
+18:32:21 ERROR: no thing at pos:553 3113 7, stackpos:1
+18:32:21 ERROR: no creature found to move
+18:32:22 ERROR: no thing at pos:561 3114 7, stackpos:1
+18:32:22 ERROR: no creature found to move
+18:32:22 ERROR: no thing at pos:554 3113 7, stackpos:1
+18:32:22 ERROR: no creature found to move
+18:32:22 ERROR: no thing at pos:555 3113 7, stackpos:2
+18:32:22 ERROR: no creature found to move
+18:32:22 ERROR: no thing at pos:562 3112 7, stackpos:2
+18:32:22 ERROR: no creature found to move
+18:32:22 ERROR: no thing at pos:555 3112 7, stackpos:2
+18:32:22 ERROR: no creature found to move
+18:32:23 ERROR: no thing at pos:561 3112 7, stackpos:3
+18:32:23 ERROR: no creature found to move
+18:32:23 ERROR: no thing at pos:556 3112 7, stackpos:1
+18:32:23 ERROR: no creature found to move
+18:32:23 ERROR: no thing at pos:560 3112 7, stackpos:8
+18:32:23 ERROR: no creature found to move
+18:32:23 ERROR: unable to remove creature
+18:32:23 ERROR: no thing at pos:552 3113 7, stackpos:1
+18:32:23 ERROR: no thing
+18:32:24 ERROR: no thing at pos:560 3112 7, stackpos:8
+18:32:24 ERROR: no creature found to move
+18:32:24 ERROR: no thing at pos:561 3110 7, stackpos:2
+18:32:24 ERROR: no creature found to move
+18:32:24 ERROR: unable to remove creature
+18:32:24 ERROR: no thing at pos:558 3111 7, stackpos:15
+18:32:24 ERROR: no thing
+18:32:24 ERROR: no thing at pos:552 3113 7, stackpos:1
+18:32:24 ERROR: no thing
+18:32:24 ERROR: no thing at pos:562 3110 7, stackpos:2
+18:32:24 ERROR: no creature found to move
+18:32:24 ERROR: no thing at pos:556 3112 7, stackpos:1
+18:32:24 ERROR: no creature found to move
+18:32:24 ERROR: no thing at pos:558 3111 7, stackpos:15
+18:32:24 ERROR: no creature found to move
+18:32:24 ERROR: no thing at pos:552 3113 7, stackpos:1
+18:32:24 ERROR: no creature found to move
+18:32:26 ERROR: no thing at pos:552 3112 7, stackpos:1
+18:32:26 ERROR: no creature found to move
+18:32:26 ERROR: no thing at pos:561 3112 7, stackpos:3
+18:32:26 ERROR: no creature found to move
+18:32:26 ERROR: no thing at pos:562 3111 7, stackpos:1
+18:32:26 ERROR: no creature found to move
+18:32:27 ERROR: no thing at pos:561 3110 7, stackpos:2
+18:32:27 ERROR: no creature found to move
+18:32:27 ERROR: no thing at pos:553 3112 7, stackpos:1
+18:32:27 ERROR: no thing
+18:32:27 ERROR: unable to remove creature
+18:32:27 ERROR: no thing at pos:555 3114 7, stackpos:2
+18:32:27 ERROR: no creature found to move
+18:32:28 ERROR: no thing at pos:555 3113 7, stackpos:2
+18:32:28 ERROR: no creature found to move
+18:32:28 ERROR: no thing at pos:556 3113 7, stackpos:2
+18:32:28 ERROR: no creature found to move
+18:32:28 ERROR: no thing at pos:557 3103 7, stackpos:2
+18:32:28 ERROR: no creature found to move
+18:32:29 ERROR: no thing at pos:555 3113 7, stackpos:2
+18:32:29 ERROR: no creature found to move
+18:32:29 ERROR: unable to remove creature
+18:32:30     [ultima mensagem repetida 3 vezes]
+18:32:30 ERROR: no thing at pos:557 3104 7, stackpos:2
+18:32:30 ERROR: no creature found to move
+18:32:31 ERROR: no thing at pos:560 3109 7, stackpos:2
+18:32:31 ERROR: no creature found to move
+18:32:31     [ultima mensagem repetida 1 vezes]
+18:32:31 ERROR: no thing at pos:560 3109 7, stackpos:2
+18:32:31 ERROR: no creature found to move
+18:32:32 ERROR: unable to remove creature
+18:32:32 ERROR: no thing at pos:561 3110 7, stackpos:2
+18:32:32 ERROR: no creature found to move
+18:32:32 ERROR: no thing at pos:556 3113 7, stackpos:2
+18:32:32 ERROR: no creature found to move
+18:32:33 ERROR: got a thing with invalid stackpos
+18:32:33 ERROR: unable to remove thing
+18:32:33     [ultima mensagem repetida 1 vezes]
+18:32:33 ERROR: no thing at pos:560 3113 7, stackpos:3
+18:32:33 ERROR: no thing
+18:32:33 ERROR: no thing at pos:560 3113 7, stackpos:3
+18:32:33 ERROR: no thing
+18:32:33 ERROR: got a thing with invalid stackpos
+18:32:33 ERROR: unable to remove thing
+18:32:42     [ultima mensagem repetida 1 vezes]
+18:32:42 ERROR: no thing at pos:559 3104 7, stackpos:2
+18:32:42 ERROR: no thing
+00:53:36 Exiting application..
+===========================================
+Log session started: 2026-10-15 09:06:18
+Application: PokeAlliance Client
+===========================================
+09:06:18 === System Information ===
+OS Version: 6.2 Build 9200
+CPU Architecture: x64
+Number of processors: 12
+Page size: 4096 bytes
+Total RAM: 32599 MB
+Available RAM: 14530 MB
+Memory load: 55%
+Process memory usage: 18 MB
+Peak memory usage: 18 MB
+==========================
+
+09:06:19 GPU ANGLE (NVIDIA, NVIDIA GeForce RTX 2070 with Max-Q Design (0x00001F14) Direct3D11 vs_5_0 ps_5_0, D3D11-32.0.16.1088) (Google Inc. (NVIDIA))
+09:06:19 OpenGL OpenGL ES 3.0 (ANGLE 2.1.46022 git hash: dfec10e842a8)
+09:06:19 [Atlas] Text atlas: 4096x4096 (max: 16384x16384)
+09:06:19 OpenAL Soft (OpenAL Community)
+09:06:19 OpenAL Soft version 1.1 ALSOFT 1.24.3
+09:06:19 Found work dir at 'C:/Users/Administrator/AppData/Local/PokeAlliance Games/PokeAlliance/'
+09:06:19 == application started at Oct 15 2026 09:06:19
+09:06:19 PokeAlliance 1.0 rev 0 (dev) made by otclient.net built on Oct 14 2026 for arch x64
